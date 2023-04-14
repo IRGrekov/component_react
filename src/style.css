@@ -1,0 +1,307 @@
+.ofer{
+padding: 16px;
+gap: 12px;
+
+
+/* White/white_100
+
+white
+*/
+background: #FFFFFF;
+/* shadow element */
+
+box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+}
+
+
+.ofer_button_more {
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 9px 16px;
+gap: 6px;
+
+width: 311px;
+height: 40px;
+
+/* Color/primary_100
+
+Blue
+*/
+background: #0468FF;
+/* Color/primary_100
+
+Blue
+*/
+border: 1px solid #0468FF;
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.ofer_button_more__text{
+  width: 279px;
+height: 22px;
+
+/* H4 16(22) */
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+text-align: center;
+
+/* White/white_100 */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 1;
+}
+
+
+.ofer_header__newBuilding {
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 311px;
+height: 44px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+
+.ofer-header{
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 311px;
+height: 44px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.ofer_header__svg{
+
+}
+
+.ofer-header__name{
+  width: 34px;
+height: 24px;
+
+/* H3 18(24) */
+font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height, or 133% */
+/* black/black */
+color: #152242;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.ofer_header__newBuilding{
+  width: 86px;
+height: 20px;
+
+/* text small 14(20) */
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+display: flex;
+align-items: center;
+
+/* Black/black_100 */
+
+color: #152242;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
+.ofer-info{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+  
+  width: 209px;
+  height: 24px;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+
+.ofer-info__topFeature{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 2px 8px;
+  gap: 4px;
+  
+  width: 168px;
+  height: 24px;
+  
+  /* Color/success_100
+  
+  Green
+  */
+  background: #3AC500;
+  border-radius: 4px;
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ofer-info__topFeatureLogo{
+left: 8.55%;
+right: 7.92%;
+top: 20.75%;
+bottom: 16.45%;
+}
+
+.ofer-info__topFeatureText{
+  width: 132px;
+  height: 20px;
+  
+  /* text small 14(20) */
+  
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+  
+  
+  /* White/white_100 */
+  
+  color: #FFFFFF;
+  
+  
+  /* Inside auto layout */
+  
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.ofer-info__featuresReminder{
+  box-sizing: border-box;
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 33px;
+height: 24px;
+
+/* Color/primary_10
+
+Secondary color
+*/
+border: 1px solid rgba(4, 104, 255, 0.1);
+border-radius: 4px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.ofer-info__topFeatureNumbers{
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+  width: 17px;
+height: 20px;
+
+/* text small 14(20) */
+
+font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+
+
+/* Color/primary_100 */
+
+color: #0468FF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}

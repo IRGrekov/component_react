@@ -1,0 +1,5 @@
+        <svg className='ofer-header__svg' width="28" height="16" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M5.90475 0L4.47618 3.89189H25.9048L27.3333 0H5.90475Z" fill="#009FDF" />
+          <path d="M3.99999 6.05405L2.57142 9.94595H24L25.4286 6.05405H3.99999Z" fill="#009FDF" />
+          <path d="M2.09523 12.1081L0.666656 16H22.0952L23.5238 12.1081H2.09523Z" fill="#009FDF" />
+        </svg>
